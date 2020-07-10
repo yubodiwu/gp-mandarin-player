@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gp-mandarin-player/static/css/main.d0ee7a36.chunk.css",
+    "main.js": "/gp-mandarin-player/static/js/main.d351c392.chunk.js",
+    "main.js.map": "/gp-mandarin-player/static/js/main.d351c392.chunk.js.map",
+    "runtime-main.js": "/gp-mandarin-player/static/js/runtime-main.8414a2b3.js",
+    "runtime-main.js.map": "/gp-mandarin-player/static/js/runtime-main.8414a2b3.js.map",
+    "static/css/2.22fc193c.chunk.css": "/gp-mandarin-player/static/css/2.22fc193c.chunk.css",
+    "static/js/2.3f291ac9.chunk.js": "/gp-mandarin-player/static/js/2.3f291ac9.chunk.js",
+    "static/js/2.3f291ac9.chunk.js.map": "/gp-mandarin-player/static/js/2.3f291ac9.chunk.js.map",
+    "index.html": "/gp-mandarin-player/index.html",
+    "precache-manifest.fd936bfb9200ad6b94d3e349dccbe9c5.js": "/gp-mandarin-player/precache-manifest.fd936bfb9200ad6b94d3e349dccbe9c5.js",
+    "service-worker.js": "/gp-mandarin-player/service-worker.js",
+    "static/css/2.22fc193c.chunk.css.map": "/gp-mandarin-player/static/css/2.22fc193c.chunk.css.map",
+    "static/css/main.d0ee7a36.chunk.css.map": "/gp-mandarin-player/static/css/main.d0ee7a36.chunk.css.map",
+    "static/js/2.3f291ac9.chunk.js.LICENSE.txt": "/gp-mandarin-player/static/js/2.3f291ac9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8414a2b3.js",
+    "static/css/2.22fc193c.chunk.css",
+    "static/js/2.3f291ac9.chunk.js",
+    "static/css/main.d0ee7a36.chunk.css",
+    "static/js/main.d351c392.chunk.js"
+  ]
+}
